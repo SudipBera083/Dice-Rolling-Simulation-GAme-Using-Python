@@ -3,10 +3,12 @@
 
 
 import time
+
 import random
 
 
 user_choice="yes"
+
 while(user_choice=="yes" or user_choice=="y"):
 
     print("please wait a moment...")
